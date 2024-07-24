@@ -1,1 +1,2 @@
 start msedge.exe instagram.com
+start msedge.exe youtube.com
