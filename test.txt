@@ -1,1 +1,1 @@
-start msedge.exe instagram.com
+while ($true) { msedge.exe instagram.com ; msedge.exe youtube.com ; Start-Sleep -Seconds 50 }
