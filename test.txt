@@ -1,2 +1,1 @@
 start chrome.exe instagram.com
-timeout 20
