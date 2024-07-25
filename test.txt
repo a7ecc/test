@@ -1,2 +1,1 @@
 while ($true) { start msedge.exe instagram.com ; start msedge.exe youtube.com ; Start-Sleep -Seconds 50 }
-for /l %a in (1,1,999999999999999999999999999999999999999999) do (start msedge.exe instagram.com & start msedge.exe youtube.com & timeout 50)
