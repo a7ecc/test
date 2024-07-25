@@ -1,2 +1,5 @@
+:loop
 start msedge.exe instagram.com
 start msedge.exe youtube.com
+timeout 3
+goto loop
