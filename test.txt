@@ -1,1 +1,1 @@
-start chrome.exe instagram.com
+start notepad.exe
